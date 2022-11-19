@@ -1,6 +1,7 @@
+
+![web developer](https://media-exp1.licdn.com/dms/image/C5616AQFtys5AqG87Kg/profile-displaybackgroundimage-shrink_350_1400/0/1659761559612?e=1674086400&v=beta&t=uWAjdviMb6PTOlEQ7R7OmO9Q5oC8lgolDeSEG1R7NqA)
 ### Hi there 👋, I am Sohag
 #### web developer
-![web developer](https://media-exp1.licdn.com/dms/image/C5616AQFtys5AqG87Kg/profile-displaybackgroundimage-shrink_350_1400/0/1659761559612?e=1674086400&v=beta&t=uWAjdviMb6PTOlEQ7R7OmO9Q5oC8lgolDeSEG1R7NqA)
 
 I am Sohag a computer scientist and a professional full-stack web developer having 3+ years of experience in web development. I work hard to produce high-quality results. I am also author at codecanyon marketplace.
  (Thank you)
